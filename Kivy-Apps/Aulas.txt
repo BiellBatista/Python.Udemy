@@ -125,8 +125,8 @@
 	07 - Etapas da importação
 	08 - Símbolos privados
 	09 - Símbolos públicos
-	11 - Módulo principal
-	12 - Recarregamento de módulo
+	10 - Módulo principal
+	11 - Recarregamento de módulo
 17 - Exceções
 	01 - Introdução às exceções
 	02 - Valores inválidos
