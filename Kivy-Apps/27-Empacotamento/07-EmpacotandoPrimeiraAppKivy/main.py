@@ -1,0 +1,2 @@
+
+input("Estudo do PyInstaller")
