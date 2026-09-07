@@ -140,7 +140,11 @@
 	02 - Primeira classe
 	03 - Nomeclatura de classe
 	04 - Criação de objetos (instanciação)
-FALTA AQUI
+	05 - Membros de classe
+	06 - Método construtor
+	07 - Classe retângulo
+	08 - Análise da declaração de membros
+	09 - Personalizando o método construtor
 19 - Orientação a objetos II
 FALTA AQUI
 20 - Degustação
