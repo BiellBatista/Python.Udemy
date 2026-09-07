@@ -4,7 +4,7 @@ from pprint import pprint
 import sys
 
 # sys.path.inser(0, "C:\\Diretorio\\") adiciona um diretório no topo da lista de path
-import Ferramentas
+import Ferramentas_06
 
 pprint(sys.path)
 

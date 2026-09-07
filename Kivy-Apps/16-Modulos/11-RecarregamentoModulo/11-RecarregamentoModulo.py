@@ -10,7 +10,7 @@ O módulo pode ser recarregado. Porém, todos os valores definidos em seus membr
 import importlib
 import mod_a
 
-del(mod_a.b)  # remove a variavel global 'b'
+del mod_a.b  # remove a variavel global 'b'
 mod_a.a = 0
 
 # reemportando o módulo mod_a

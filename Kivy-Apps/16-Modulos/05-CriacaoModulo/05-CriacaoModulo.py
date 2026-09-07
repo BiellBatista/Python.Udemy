@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import Estudo
+import Estudo_05
 
 #print("programa acabou")
 

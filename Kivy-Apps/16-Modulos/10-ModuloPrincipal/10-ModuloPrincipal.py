@@ -9,7 +9,7 @@ if __name__ == "__main__":
     pass
 '''
 # importando um módulo dentro de um diretório
-import pasta.Ferramentas
+import pasta.Ferramentas_10
 
 # ponto de entrada inicial de toda aplicação python
 if __name__ == "__main__":
