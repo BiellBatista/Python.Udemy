@@ -1,0 +1,18 @@
+# mesclando Python com KV
+
+<MinhaTela@BoxLayout>:
+    orientation: "vertical"
+
+    Button:
+    # a palavra reservada root é para referência a classe implementada no python
+        text: "OK"
+        on_press: root.click()
+    Label:
+        text: "Label 1"
+        # a palavra id serve para que o código em Pyhton possa ter acesso
+        id: lb1
+    Label:
+        text: "Label 2"
+        id: lb2
+
+MinhaTela: # quando o arquivo for interpretado, será criado a instancia da class eMinhaTela

@@ -1,0 +1,16 @@
+<MinhaTela@BoxLayout>
+    orientation: "vertical"
+
+    Button:
+        text: "self"
+        on_press: self.funcSelf()
+
+    Button:
+        text: "root"
+        on_press: root.funcRoot() # a palavra root aponta para a classe (MinhaTela)
+
+    Button:
+        text: "app"
+        on_press: app.funcApp()  # a palavra app aponta para a classe principal (Estudo5App)
+
+MinhaTela:
