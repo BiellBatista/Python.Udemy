@@ -1,0 +1,31 @@
+Curso de Python: Apps para Android, iOS, Linx, Win, e Mac com Kivy
+	01 - Ambientes virtuais
+	02 - Material de apoio
+	03 - Instalação no Windows
+	04 - Instalação no Ubuntu
+	05 - Instalação no Mac
+	06 - Instalação simples (solução alternativa)
+	07 - Conceitos da programação e do Python
+	08 - PyCharm
+	09 - Tomada de decisão
+	10 - Operadores
+	11 - Iteradores
+	12 - Estrutura de dados (Lista e Tupla)
+	13 - String
+	14 - Dicionários
+	15 - Funções
+	16 - Módulos
+	17 - Exceções
+	18 - Orientação a objetos I
+	19 - Orientação a objetos II
+	20 - Degustação
+	21 - Posicionamento e dimensão
+	22 - Introdução a KvLang
+	23 - Ferramentas
+	24 - Kivy Language
+	25 - Widget I
+	26 - Widget II
+	27 - Empacotamento
+	28 - Python e SQLite
+	29 - SQL
+	30 - Comunicado

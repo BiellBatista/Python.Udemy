@@ -1,0 +1,247 @@
+01 - Ambientes virtuais
+	01 - Introdução ao uso de ambientes virtuais
+02 - Material de apoio
+	01 - Antes de começarmos
+	02 - Material de apoio
+	03 - Nota importante aos novos alunos
+	04 - Nota importante (referente as instalações)
+03 - Instalação no Windows
+	01 - Construção do ambiente de trabalho no Windows
+	02 - Instalação da biblioteca Kivy no Windows
+	03 - Instalando o PyCharm no Windows
+04 - Instalação no Ubuntu
+	01 - Ambiente de trabalho Ubuntu
+	02 - Criação de ambientes Virtuais
+	03 - Instalando o PyCharm no Ubuntu
+05 - Instalação no Mac
+	01 - Introdução à construção do ambiente de trabalho no Mac OS X
+	02 - Ambiente de trabalho Mac
+	03 - Instalando o PyCharm no Mac
+06 - Instalação simples (solução alternativa)
+	01 - Aviso!
+	02 - Instalação no Windows
+	03 - Instalação no Linux (Ubuntu)
+07 - Conceitos da programação e do Python
+	01 - IDLE
+	02 - Criando o primeiro projeto
+	03 - Comentários em Python
+	04 - Como funciona a indentação
+	05 - Variáveis I
+	06 - Variáveis II
+	07 - Nomenclatura
+	08 - Manipulação de dados
+	09 - Ponto flutuante
+	10 - Entrada de dados
+	11 - Operações matemáticas
+	12 - Módulo da divisão
+	13 - Potenciação e radiciação
+	14 - Operadores relacionais
+	15 - Exercício teórico
+	16 - Exercícios práticos
+08 - PyCharm
+	01 - Visão geral do PyCharm
+	02 - Views do PyCharm
+	03 - Plugins
+	04 - PyCharm e os ambientes virtuais
+	05 - Introdução à depuração
+	06 - Inspecionando o ambiente em modo de depuração
+	07 - Teclas de atalho à depuração
+	08 - Breakpoint condicional
+	09 - Resolução de problemas (exceções)
+09 - Tomada de decisão
+	01 - Tomada de decisão I
+	02 - Tomada de decisão II
+	03 - Operadores relacionais compostos
+	04 - Operadores relacionais na prática
+	05 - Operadores lógicos
+	06 - Blocos de instrução I
+	07 - Blocos de instrução II
+	08 - Blocos de instruções na prática
+	09 - Exercícios práticos
+	10 - Exercícios práticos
+10 - Operadores
+	01 - Escopo
+	02 - Operadores de atribuição I
+	03 - Operadores de atribuição II
+	04 - Atribuição múltipla
+	05 - Atribuição condicional
+11 - Iteradores
+	01 - Iteração
+	02 - Laços de repetição
+	03 - While - Else
+	04 - For - Loop
+	05 - Função Range
+	06 - Laço For e a função Range
+	07 - Instrução Break
+	08 - Instrução Continue
+	09 - Lista de exercícios
+12 - Estrutura de dados (Lista e Tupla)
+	01 - Estrutura de dados Lista
+	02 - Lista, Pilha, Array, Set
+	03 - Class List I
+	04 - Class List II
+	05 - Class List III
+	06 - Iterando listas
+	07 - Fatiando listas
+	08 - Incluindo, alterando e excluindo elementos
+	09 - Ordenamento de listas
+	10 - Quantidade de elementos
+	11 - Tuplas
+	12 - Operadores In e Not In
+	13 - Operadores And, Or e In
+	14 - Exemplo prático com operador In
+13 - String
+	01 - Introdução às Strings
+	02 - Fatiando Strings
+	03 - Comparando Strings
+	04 - Propriedades das Strings
+	05 - Iterando Strings
+14 - Dicionários
+	01 - Introdução aos dicionários
+	02 - Dicionários na prática
+	03 - Funções dos dicionários
+15 - Funções
+	01 - Introdução às funções
+	02 - Parâmetros de função
+	03 - Parâmetros Default
+	04 - Argumentos nomeados
+ 	05 - Retorno de valores
+	06 - Retorno de valores múltiplos
+	07 - função variádica
+	08 - Desempacotamento I
+	09 - Desempacotamento II
+	10 - Funções aninhadas
+	11 - Instrução Nonlocal
+	12 - Blocos sem códigos
+	13 - Instrução global
+	14 - Lisa de exercícios
+16 - Módulos
+	01 - Introdução aos módulos
+	02 - Escopo e tabela de símbolos
+	03 - Importando módulos
+	04 - Importação de símbolos
+	05 - Criação de módulos
+	06 - Localização de módulos
+	07 - Etapas da importação
+	08 - Símbolos privados
+	09 - Símbolos públicos
+	11 - Módulo principal
+	12 - Recarregamento de módulo
+17 - Exceções
+	01 - Introdução às exceções
+	02 - Valores inválidos
+	03 - Tratamento de exceções múltiplas I
+	04 - Tratamento de exceções múltiplas II
+	05 - Capturando a instância do erro
+	06 - Bloco Else
+	07 - Bloco Finally
+18 - Orientação a objetos I
+	01 - Introdução à orientação a objetos com Python
+	02 - Primeira classe
+	03 - Nomeclatura de classe
+	04 - Criação de objetos (instanciação)
+FALTA AQUI
+19 - Orientação a objetos II
+FALTA AQUI
+20 - Degustação
+	01 - Documentação da biblioteca Kivy em português
+	02 - Hello World (kivy)
+	03 - Imprimindo textos
+	04 - Conhecendo outros Widgets
+	05 - Entrada de dados
+	06 - Uma tela de verdade
+	07 - Orientação a objetos
+21 - Posicionamento e dimensão
+	01 - Sistema de posicionamento
+	02 - Sistema de medidas
+22 - Introdução a KvLang
+	01 - Introdução à KvLang
+	02 - Hello World com KvLang
+	03 - Propriedade de medida e posicionamento
+	04 - Posicionamento I
+	05 - Posicionamento II
+	06 - Dimensão
+23 - Ferramentas
+	01 - Documentação oficial
+	02 - Código fonte
+	03 - Projeto Garden
+	04 - Kivy Design
+	05 - Módulos e arquitetura
+	06 - Módulos e configurações
+	07 - Módulo Screen
+	08 - Introdução ao Jupyter
+	09 - Desenvolvimento interativo com Jupyter e Kivy
+24 - Kivy Language
+	01 - KV vs Python - implementando com Python
+	02 - KV vs Python - implementando com KV
+	03 - Princípios das linguagem KV
+	04 - KvLang I
+	05 - KvLang II
+	06 - KvLang III
+	07 - KvLang IV - conectando Python e KV
+	08 - KvLang V - keywords
+	09 - Classe Builder
+25 - Widget I
+	01 - Introdução ao estudo do Widgets
+	02 - Sugestões para o estudo
+	03 - Ambiente para estudos dos Widgets
+	04 - FloatLayout
+	05 - BoxLayout
+	06 - StackLayout
+	07 - GridLayout
+	08 - Sistema de cores
+	09 - Cor de fundo
+26 - Widget II
+	01 - Label I
+	02 - Label II
+	03 - Button
+	04 - TextInput I
+	05 - Continuação
+27 - Empacotamento
+	01 - Sobre a VM APK Builder
+	02 - Introdução
+	03 - Construindo o ambiente do empacotamento
+	04 - Empacotamento de apps em Kivy
+	05 - Introdução ao PyInstaller
+	06 - Instalando o PyInstaller no Windows
+	07 - Empacotando a primeira aplicação em Kivy
+	08 - Estrutura de arquivos do empacotamento
+Aula 193 - FALTA AQUI pra baixo
+Aula 194 -
+Aula 195 -
+Aula 196 -
+Aula 197 -
+Aula 198 -
+Aula 199 -
+Aula 200 -
+Aula 201 -
+Aula 202 -
+Aula 203 -
+Aula 204 -
+Aula 205 -
+Aula 206 -
+Aula 207 -
+Aula 208 -
+Aula 209 -
+Aula 210 -
+Aula 211 -
+Aula 212 -
+Aula 213 -
+Aula 214 -
+Aula 215 -
+Aula 216 -
+Aula 217 -
+Aula 218 -
+Aula 219 -
+Aula 220 -
+Aula 221 -
+Aula 222 -
+Aula 223 -
+Aula 224 -
+Aula 225 -
+Aula 226 -
+Aula 227 -
+Aula 228 -
+Aula 229 -
+Aula 230 -
+Aula 231 -
