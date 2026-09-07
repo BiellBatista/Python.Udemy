@@ -107,7 +107,7 @@
 	04 - Argumentos nomeados
  	05 - Retorno de valores
 	06 - Retorno de valores múltiplos
-	07 - função variádica
+	07 - Função variádica
 	08 - Desempacotamento I
 	09 - Desempacotamento II
 	10 - Funções aninhadas
