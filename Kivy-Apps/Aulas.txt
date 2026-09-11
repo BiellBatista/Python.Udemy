@@ -146,7 +146,12 @@
 	08 - Análise da declaração de membros
 	09 - Personalizando o método construtor
 19 - Orientação a objetos II
-FALTA AQUI
+	01 - Encapsulamento
+	02 - Métodos assessores - Getters e Setters
+	03 - Visibilidade dos membros
+	04 - Propriedades I
+	05 - Propriedades II - Decorators
+	06 - Propriedades III
 20 - Degustação
 	01 - Documentação da biblioteca Kivy em português
 	02 - Hello World (kivy)
