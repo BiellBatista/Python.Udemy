@@ -152,6 +152,10 @@
 	04 - Propriedades I
 	05 - Propriedades II - Decorators
 	06 - Propriedades III
+	07 - Objeto classe I
+	08 - Objeto classe II
+	09 - Método de classe
+	10 - Método estático
 20 - Degustação
 	01 - Documentação da biblioteca Kivy em português
 	02 - Hello World (kivy)
